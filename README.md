@@ -1,117 +1,122 @@
-👋 Hi, I'm Mostafa Elssedy
+# 👋 Hi, I'm Mostafa Elssedy
 
-💻 Junior Laravel Backend Developer | PHP Developer
+### 💻 Junior Laravel Backend Developer | PHP Developer
 
-I'm a Computer Science student and a passionate Backend Developer focused on building modern, scalable, and maintainable web applications using PHP & Laravel.
-
-I'm currently improving my backend development skills by building real-world projects and learning best practices in Laravel, REST APIs, databases, authentication, and software architecture.
-
----
-
-🚀 About Me
-
-- 🎓 Computer Science Student
-- 💻 Focused on Backend Development
-- 🔥 Currently focusing on PHP & Laravel
-- 🗄️ Interested in MySQL & Database Design
-- 🌐 Learning and building RESTful APIs
-- 🔐 Working with Authentication & Authorization
-- 🤖 Exploring AI Integration with Laravel
-- 📚 Always learning and improving my development skills
+<p align="left">
+  <a href="https://github.com/[YOUR_USERNAME]">
+    <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-🛠️ Tech Stack
+## 🚀 About Me
 
-Backend
+I'm a Computer Science student and a passionate **Backend Developer** focused on building modern and maintainable web applications using **PHP & Laravel**.
 
-"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-"Laravel" (https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+I'm currently developing my skills through real-world projects, focusing on backend development, REST APIs, databases, authentication, and clean application architecture.
 
-Database
+```php
+<?php
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+class Mostafa
+{
+    public string $role = "Junior Laravel Backend Developer";
 
-Frontend
+    public array $focus = [
+        "PHP",
+        "Laravel",
+        "REST APIs",
+        "MySQL",
+        "Backend Development",
+    ];
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-📚 Currently Learning
-
-- Laravel Advanced Concepts
-- RESTful APIs
-- Laravel Sanctum
-- Eloquent ORM
-- Database Design
-- Authentication & Authorization
-- Livewire
-- API Integration
-- AI Integration with Laravel
-- Clean Code & Best Practices
+    public string $goal = "Become a strong professional Backend Developer";
+}
+```
 
 ---
 
-💼 What I Build
+## 🛠️ Tech Stack
 
-I enjoy building business-oriented applications such as:
+### 👨‍💻 Backend
 
-- 📦 Inventory Management Systems
-- 🧾 Sales & Invoice Systems
-- 👥 User & Role Management
-- 📊 Admin Dashboards
-- 🔐 Authentication Systems
-- 🌐 REST APIs
-- 🤖 AI-powered Applications
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
----
+### 🗄️ Database
 
-🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-📦 Inventory & Sales ERP
+### 🎨 Frontend
 
-A Laravel-based ERP system for managing inventory, sales, purchases, invoices, customers, suppliers, and reports.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
 
-Tech: Laravel • PHP • MySQL • Blade • Bootstrap • JavaScript
+### 🔧 Tools & Technologies
 
----
-
-🤖 Laravel AI Assistant
-
-An AI-powered application integrated with Laravel to provide intelligent responses and interact with application data.
-
-Tech: Laravel • PHP • MySQL • Gemini API
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm" />
+</p>
 
 ---
 
-🎯 My Goal
+## 📚 Currently Learning
 
-My current goal is to become a strong Laravel Backend Developer and gain professional experience by working on real-world applications, APIs, databases, and scalable backend systems.
-
----
-
-📫 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Portfolio]
-
----
-
-⚡ Fun Fact
-
-«I believe the best way to learn programming is to build real projects, break things, fix them, and keep improving. 🚀»
+```text
+Laravel Advanced Concepts     ███████████████░░░  85%
+RESTful APIs                  ██████████████░░░░  80%
+MySQL & Database Design      ██████████████░░░░  80%
+Laravel Sanctum               ████████████░░░░░░  70%
+Livewire                      ██████████░░░░░░░░  60%
+Software Architecture         ██████████░░░░░░░░  60%
+AI Integration                ████████░░░░░░░░░░  50%
+```
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as I grow as a Backend Developer.
+## 💼 What I Build
+
+🔹 **Business Applications**
+
+Inventory, sales, purchases, invoices, customers, suppliers and financial management systems.
+
+🔹 **REST APIs**
+
+Building APIs with Laravel and working with authentication, validation, resources and Postman.
+
+🔹 **Admin Dashboards**
+
+Modern dashboards with statistics, reports, charts, filters and role-based access.
+
+🔹 **Authentication & Authorization**
+
+User authentication, roles, permissions and protected application resources.
+
+🔹 **AI-Powered Applications**
+
+Exploring AI integration with Laravel and building applications powered by Gemini APIs.
+
+---
+
+
+
+## ⚡ Fun Fact
+
+> 💡 I believe the best way to learn programming is to build real projects, break things, fix them, and keep improving.
+
+---
+
+<h3 align="center">
+
+🚀 Building. Learning. Improving.
+
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
