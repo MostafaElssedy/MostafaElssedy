@@ -19,7 +19,7 @@
 
 <!-- 📬 Quick Connect & Resume Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/mostafa-elssedy" target="_blank">
+  <a href="https://linkedin.com/in/mostafa-elssedy75" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://drive.google.com/file/d/your-cv-link" target="_blank">
